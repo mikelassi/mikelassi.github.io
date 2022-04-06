@@ -60,7 +60,7 @@ gitlab_username: # your GitLab user name
 twitter_username: lassimichael # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: nlcaWm8AAAAJ # your Google Scholar ID
-orcid_id: 0000-0002-8805-0293# your ORCID ID
+orcid_id: 0000-0002-8805-0293 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -74,7 +74,7 @@ stackoverflow_id: #your stackoverflow id
 
 contact_note: >
   Contact me by email or on LinkedIn!
-google_analytics: # your google-analytics ID (format: UA-XXXXXXXXX)
+google_analytics:  G-KSNX1C5XD7 # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
