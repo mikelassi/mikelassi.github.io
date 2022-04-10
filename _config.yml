@@ -29,7 +29,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -60,7 +60,7 @@ gitlab_username: # your GitLab user name
 twitter_username: lassimichael # your Twitter handle
 linkedin_username: michael-lassi # your LinkedIn user name
 scholar_userid: nlcaWm8AAAAJ # your Google Scholar ID
-orcid_id: 0000-0002-8805-0293 # your ORCID ID
+orcid_id: # 0000-0002-8805-0293 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -84,7 +84,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:  # your blog must have a name for it to show up in the nav bar
+blog_name: # Mike's notepad # your blog must have a name for it to show up in the nav bar
 blog_description: A place to share news about my projects
 permalink: /blog/:year/:title/
 
