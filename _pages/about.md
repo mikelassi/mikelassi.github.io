@@ -21,6 +21,7 @@ I am a second year Ph.D. student at the <a href= 'CNELab.github.io'>Computationa
 I try to apply novel signal processing techniques and machine learning algorithms to clinical data to extract information that can be useful both from a clinical and neuroscientific perspective. I am eager to learn new topics, and I am currently focusing on deepening my ability in programming and my understanding of computational neuroscience.
 
 In my free time, I like to read comics (Zerocalcare ❤️) and non-fiction books 📖, I collect watches ⌚ and play some Switch games 🎮.
+
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.>
 
